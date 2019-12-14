@@ -9,7 +9,7 @@ git clone https://github.com/grimreaper94/jio_product_device_day2_2019.git
 
 #### Max time : 2.30 hours
 
-- Software Developer Q1
+- Software Developer Q1(Please don not use internet for this question)
 - Big Data/DB Developer Q5
 - Data Scientist (nlp) must solve Q3
 - Data Scientist (Generic) Can attempt to solve among Q2, Q3, Q4, Q5
