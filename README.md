@@ -1,7 +1,12 @@
 # How to Clone this Repo
 
+
 git clone https://github.com/grimreaper94/jio_product_device_day2_2019.git
 
+
+<h3>Yesterday's repo : https://github.com/iitrsamrat/jio_product_device_2019 </h3>
+
+# if you solve Q1, Its good if you solve One More Yesterdays (Q2 Probably or Q6)
 
 # Jio Product Devices 2019 - Questions
 
@@ -26,6 +31,6 @@ git clone https://github.com/grimreaper94/jio_product_device_day2_2019.git
 
 
  
-<h3>Yesterday's repo : https://github.com/iitrsamrat/jio_product_device_2019 </h3>
+
 Best Of Luck :+1: 
     
