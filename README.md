@@ -2,6 +2,7 @@
 
 git clone https://github.com/grimreaper94/jio_product_device_day2_2019.git
 
+# if you Solve Q1, Its Gud you Solve One More (Ask for which one you need to Solve)
 
 # Jio Product Devices 2019 - Questions
 
